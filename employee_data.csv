@@ -1,0 +1,16 @@
+emp_id,emp_name,age,department,salary,job_title,boss,new_column
+19,Bill,45,Engineering,4000,"Game Developer",Richard,NULL
+20,Perez,25,Customer,9000,Seller,Mark,NULL
+28,Lago,77,Engineering,4500,"SQL Developer",Stephen,NULL
+34,John,34,Customer,18000,Supplier,Jack,NULL
+55,Daniel,66,Marketing,2900,Seller,Mark,NULL
+58,Smith,19,Customer,7200,Supplier,Stephen,NULL
+76,"Ramirez ",55,Engineering,900,Engineer,Richard,NULL
+90,Lago,45,Accounting,15000,Accountant,Stephen,NULL
+91,John,22,Engineering,12000,"Software Developer",Larry,NULL
+105,Ross,29,Security,19500,"Security Staff",Helen,NULL
+155,Antony,39,Customer,44000,Seller,NULL,NULL
+250,Marry,57,H&R,38000,Recruiter,NULL,NULL
+466,Ted,27,Accounting,9200,Accountant,Richard,NULL
+550,Lincoln,48,Marketing,90000,Seller,Helen,NULL
+844,Daniel,55,Marketing,50000,Supplier,Stephen,NULL

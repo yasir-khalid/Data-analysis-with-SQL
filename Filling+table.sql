@@ -1,0 +1,15 @@
+INSERT INTO `real_app`.`employee` (`emp_id`, `emp_name`, `emp_surname`, `age`, `department`, `salary`, `job_title`, `boss`) VALUES ('20', 'Perez', 'Erika', '25', 'Customer', '9000', 'Seller', 'Mark');
+INSERT INTO `real_app`.`employee` (`emp_id`, `emp_name`, `emp_surname`, `age`, `department`, `salary`, `job_title`, `boss`) VALUES ('58', 'Smith', 'Janeth', '19', 'Customer', '7200', 'Supplier', 'Stephen');
+INSERT INTO `real_app`.`employee` (`emp_id`, `emp_name`, `emp_surname`, `age`, `department`, `salary`, `job_title`, `boss`) VALUES ('76', 'Ramirez ', 'Nero', '55', 'Engineering', '900', 'Engineer', 'Richard');
+INSERT INTO `real_app`.`employee` (`emp_id`, `emp_name`, `emp_surname`, `age`, `department`, `salary`, `job_title`, `boss`) VALUES ('90', 'Lago', 'Carlos', '45', 'Accounting', '15000', 'Accountant', 'Stephen');
+INSERT INTO `real_app`.`employee` (`emp_id`, `emp_name`, `emp_surname`, `age`, `department`, `salary`, `job_title`, `boss`) VALUES ('55', 'Daniel', 'Kevin', '66', 'Marketing', '2900', 'Seller', 'Mark');
+INSERT INTO `real_app`.`employee` (`emp_id`, `emp_name`, `emp_surname`, `age`, `department`, `salary`, `job_title`, `boss`) VALUES ('91', 'John', 'Sam', '22', 'Engineering', '12000', 'Software Developer', 'Larry');
+INSERT INTO `real_app`.`employee` (`emp_id`, `emp_name`, `emp_surname`, `age`, `department`, `salary`, `job_title`, `boss`) VALUES ('19', 'Bill', 'Jackson', '45', 'Engineering', '4000', 'Game Developer', 'Richard');
+INSERT INTO `real_app`.`employee` (`emp_id`, `emp_name`, `emp_surname`, `age`, `department`, `salary`, `job_title`, `boss`) VALUES ('28', 'Lago', 'Roly', '77', 'Engineering', '4500', 'SQL Developer', 'Stephen');
+INSERT INTO `real_app`.`employee` (`emp_id`, `emp_name`, `emp_surname`, `age`, `department`, `salary`, `job_title`, `boss`) VALUES ('34', 'John', 'Kelly', '34', 'Customer', '18000', 'Supplier', 'Jack');
+INSERT INTO `real_app`.`employee` (`emp_id`, `emp_name`, `emp_surname`, `age`, `department`, `salary`, `job_title`, `boss`) VALUES ('105', 'Ross', 'Geller', '29', 'Security', '19500', 'Security Staff', 'Helen');
+INSERT INTO `real_app`.`employee` (`emp_id`, `emp_name`, `emp_surname`, `age`, `department`, `salary`, `job_title`, `boss`) VALUES ('550', 'Lincoln', 'Brand', '48', 'Marketing', '90000', 'Seller', 'Helen');
+INSERT INTO `real_app`.`employee` (`emp_id`, `emp_name`, `emp_surname`, `age`, `department`, `salary`, `job_title`, `boss`) VALUES ('466', 'Ted', 'Johnson', '27', 'Accounting', '9200', 'Accountant', 'Richard');
+INSERT INTO `real_app`.`employee` (`emp_id`, `emp_name`, `emp_surname`, `age`, `department`, `salary`, `job_title`, `boss`) VALUES ('844', 'Daniel', 'Tompson', '55', 'Marketing', '50000', 'Supplier', 'Stephen');
+INSERT INTO `real_app`.`employee` (`emp_id`, `emp_name`, `emp_surname`, `age`, `department`, `salary`, `job_title`) VALUES ('155', 'Antony', 'Felas', '39', 'Customer', '44000', 'Seller');
+INSERT INTO `real_app`.`employee` (`emp_id`, `emp_name`, `emp_surname`, `age`, `department`, `salary`, `job_title`) VALUES ('250', 'Marry', 'Sun', '57', 'H&R', '38000', 'Recruiter');
